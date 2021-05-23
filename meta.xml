@@ -1,0 +1,7 @@
+<meta>
+	<info author="Rendet_" description="DVD" />
+
+	<script src="client.lua" type="client" cache="false"/>
+
+	<file src="logo.png"/>
+</meta>
